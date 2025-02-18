@@ -1,0 +1,7 @@
+#BlueJ class context
+comment0.target=BusquedaHash
+comment1.params=diccionario\ clave
+comment1.target=java.lang.String\ busquedaHash(java.util.HashMap,\ int)
+comment2.params=args
+comment2.target=void\ main(java.lang.String[])
+numComments=3
